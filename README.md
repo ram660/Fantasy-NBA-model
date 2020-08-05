@@ -46,5 +46,3 @@ Data pulled from [NBA stats](https://stats.nba.com/) and saved down into CSV fil
 - While data was previously pulled down via NBA API, I came across an NBA chrome extension that made it super easy to get NBA stats in CSV form. [NBA Data Retriever](https://chrome.google.com/webstore/detail/nba-data-retriever/cibebblabkdibhnidfnipfnjkfbcmeha?hl=en)
 - Projection Model was heavily inspired by the [FATS Model from NBA Math](https://nbamath.com/fats-model/)
 
-#### Notes
-I am in the process of turning this into a Udemy class focused on pandas basics but also walking through how to build the model step by step. Any feedback I can get would be extremely helpful!
